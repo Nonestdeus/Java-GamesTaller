@@ -3,7 +3,7 @@ import java.awt.*;
 public class Car extends Rectangle
 {
 	public static final int WIDTH = 18;
-	public static final int HEIGHT = 18;
+	public static final int HEIGHT = 189;
 
 	private int speed;
 	private Color color;
