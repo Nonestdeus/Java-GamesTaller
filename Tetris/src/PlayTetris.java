@@ -1,6 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
 
+//esto es un comentario
+
 public class PlayTetris extends JFrame
 {
 	public PlayTetris()
